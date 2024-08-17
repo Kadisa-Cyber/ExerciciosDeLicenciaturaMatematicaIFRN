@@ -1,0 +1,7 @@
+C:\Users\kauan\OneDrive\Área de Trabalho\Senai\1 ° SEMESTRE\C# - Exercicios\Repetição\ExerciciosFaculdade\bin\Debug\ExerciciosFaculdade.exe.config
+C:\Users\kauan\OneDrive\Área de Trabalho\Senai\1 ° SEMESTRE\C# - Exercicios\Repetição\ExerciciosFaculdade\bin\Debug\ExerciciosFaculdade.exe
+C:\Users\kauan\OneDrive\Área de Trabalho\Senai\1 ° SEMESTRE\C# - Exercicios\Repetição\ExerciciosFaculdade\bin\Debug\ExerciciosFaculdade.pdb
+C:\Users\kauan\OneDrive\Área de Trabalho\Senai\1 ° SEMESTRE\C# - Exercicios\Repetição\ExerciciosFaculdade\obj\Debug\ExerciciosFaculdade.csproj.AssemblyReference.cache
+C:\Users\kauan\OneDrive\Área de Trabalho\Senai\1 ° SEMESTRE\C# - Exercicios\Repetição\ExerciciosFaculdade\obj\Debug\ExerciciosFaculdade.csproj.CoreCompileInputs.cache
+C:\Users\kauan\OneDrive\Área de Trabalho\Senai\1 ° SEMESTRE\C# - Exercicios\Repetição\ExerciciosFaculdade\obj\Debug\ExerciciosFaculdade.exe
+C:\Users\kauan\OneDrive\Área de Trabalho\Senai\1 ° SEMESTRE\C# - Exercicios\Repetição\ExerciciosFaculdade\obj\Debug\ExerciciosFaculdade.pdb
